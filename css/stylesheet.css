@@ -27,6 +27,8 @@ body a:hover {
 
 div.project {
     background: #e6b37f;
+    width: 70%;
+    margin: 0 auto;
 }
 
 div.project h3{
