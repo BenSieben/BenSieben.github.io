@@ -1,6 +1,8 @@
 body {
     background: #ecc59d;
     color: #6a4015;
+    margin: 0;
+    padding: 0 0 0 0;
 }
 
 body h1 {
