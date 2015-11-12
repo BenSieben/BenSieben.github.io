@@ -1,1 +1,1 @@
-This repository is used to create the website located at https://BenSieben.github.io, which will eventually display projects completed by me, Ben Sieben.
+This repository is used to create the website located at https://BenSieben.github.io, which will display projects completed by me, Ben Sieben.
