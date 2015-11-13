@@ -9,6 +9,8 @@ body h1 {
     background: #d5802a;
     text-align: center;
     font-size: 3em;
+    min-width: 13em;
+    margin: 0 auto;
 }
 
 body p{
@@ -31,7 +33,11 @@ body a:hover {
 div.project {
     background: #e6b37f;
     width: 70%;
+    border-style: double;
     margin: 0 auto;
+    margin-bottom: 1em;
+    max-width: 40em;
+    border-color: #6a4015;
 }
 
 div.project h3{
@@ -39,11 +45,12 @@ div.project h3{
     text-align: center;
     background: #d5802a;
     min-height: 1.4em;
+    margin: 0 auto;
 }
 
 div.projecttext {
     font-size: 1.25em;
-    margin-top: -1.5em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
 }
 
 div.projectimg {
