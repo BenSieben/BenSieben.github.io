@@ -38,6 +38,7 @@ div.project h3{
     font-size: 2em;
     text-align: center;
     background: #d5802a;
+    min-height: 1.4em;
 }
 
 div.projecttext {
